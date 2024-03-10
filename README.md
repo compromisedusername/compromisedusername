@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Student at the Polish-Japanese Academy of Information Technology</h3>
 
-- 🔭 I’m currently working on [app where u can find answers for exams](https://github.com/ready2-study/website)
+
 
 - 🌱 I’m currently learning **Nestjs, .NET, Java, Python**
 
