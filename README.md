@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Nestjs, .NET, Java, Python**
+- 🌱 I’m currently learning **Nestjs, .NET, Java, Python, .NET**
 
 <h3 align="left">...........................................................................................................................</h3>
 <p align="left">
